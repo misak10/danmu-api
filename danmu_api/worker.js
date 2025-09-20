@@ -11,7 +11,7 @@ const MAX_LOGS = 500;
 const MAX_ANIMES = 100;
 const allowedPlatforms = ["qiyi", "bilibili1", "imgo", "youku", "qq"];
 
-const DEFAULT_TOKEN = "87654321"; // 默认 token
+const DEFAULT_TOKEN = "misaki"; // 默认 token
 let token = DEFAULT_TOKEN;
 
 // 这里既支持 Cloudflare env，也支持 Node process.env
